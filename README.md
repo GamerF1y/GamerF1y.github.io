@@ -9,8 +9,6 @@
 ### Why: Learning Web By Self & Find A Job
 ### Contact me WeChat(Please add comment): _15926255256_   
 
-#### feed.xml RSS
-
 #### 感谢   
 
 本博客在[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  
@@ -22,3 +20,6 @@
  
  以及视频讲解 酒石酸菌
  https://www.bilibili.com/video/BV14x411t7ZU/?spm_id_from=333.337.search-card.all.click&vd_source=f4dec875d1a598069b979fd272b3db54
+ 
+ #### PS: 
+ 1. feed.xml RSS
